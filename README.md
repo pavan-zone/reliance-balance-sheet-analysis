@@ -1,7 +1,9 @@
 Reliance Balance Sheet Analysis
 
 Overview
-dasboard url : "C:\Users\pavan\Downloads\WhatsApp Image 2026-05-31 at 1.48.52 PM.jpeg"
+dasboard url : Dashboard
+
+![Dashboard](WhatsApp%20Image%202026-05-31%20at%201.48.52%20PM.jpeg)
 
 Excel dashboard analyzing Reliance Industries financial performance.
 
